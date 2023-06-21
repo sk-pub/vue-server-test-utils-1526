@@ -9,7 +9,7 @@
     "test": "npm run lint:check && jest"
   },
   "dependencies": {
-    "nuxt": "^2.12.2"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
